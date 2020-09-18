@@ -1,0 +1,13 @@
+Установка блога:
+1.Установить Xampp;
+2.Запустить локальный сервер Apache и Mysql;
+3.Импортировать базу данных из папки DB;
+4.Перейти в файл .env в полях: 'DB_DATABASE','DB_USERNAME','DB_PASSWORD' вписать соотвутствущие данные.
+5.В командной строке в папке проэкта прописать команду 'php artisan serve'
+
+Instalacja:
+1. Zainstaluj Apacha, MySQL;
+2. Uruchom lokalny serwer Apache i  db Mysql;
+3. Importuj bazy danych z folderów bazy danych;
+4. Przejdź do pliku .env: „DB_DATABASE”, „DB_USERNAME”, „DB_PASSWORD” i wprowadź odpowiednie dane.
+5. Zainstaluj na serwer
